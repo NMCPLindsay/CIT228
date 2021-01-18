@@ -1,0 +1,13 @@
+group=['Michigan', 'Kentucky', 'Texas', 'Kansas', 'Oklahoma']
+print("---------------Exercise 3-10------------------")
+print(f"Original List: {group}")
+group.append('California')
+print(f"List after add: {group}")
+group.remove('Kentucky')
+print(f"List after delete: {group}")
+print(f"Temp sort list: {sorted(group)}")
+group.reverse()
+print(f"Reverse sort: {group}")
+group.sort()
+print(f"Sorted List: {group}")
+print(f"There are {len(group)} items in the list.")
