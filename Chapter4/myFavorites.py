@@ -32,3 +32,20 @@ print("Temp Sorted: ", sorted(luckyNums))
 print("Default Numbers: ",luckyNums)
 favMovies.reverse()
 print("Reverse Movies: ", favMovies)
+print("------------CH4--Hands On 1-----------------")
+print("\n Food List")
+print("--------------------------------------------")
+for food in favFoods:
+    print(f"{food}")
+print("\n Number List")
+print("--------------------------------------------")
+for number in luckyNums:
+    print(f"{number}")
+print("\n Movie List")
+print("--------------------------------------------")
+for movie in favMovies:
+    print(f"{movie}")
+print("\n Combo List")
+print("--------------------------------------------")
+for item in comboList:
+    print(f"{item}")
