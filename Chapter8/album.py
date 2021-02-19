@@ -21,10 +21,10 @@ while editing:
     title= input('Enter album title:')
     songs=input("How many tracks are on the album?")
     make_album(name,title,songs)
-    add=input('Do you want to add another album Y/N?')
+    add=input('Press y to add more albums.')
     if add == 'y':
         editing=True
-    elif add == "n":
-        editing=False
     else:
-        add=input('Do you want to add another album Y/N?')
+        editing=False
+    
+    
