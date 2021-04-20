@@ -1,0 +1,4 @@
+In python you can make more than console programs.
+In python you can create classes.
+In python you can create dictionaries.
+In python you can create read and write files.

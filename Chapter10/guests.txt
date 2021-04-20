@@ -1,0 +1,4 @@
+teddy, Room:21
+freddy, Room:15
+eddy, Room:16
+jim, Room:13
